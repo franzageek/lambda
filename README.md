@@ -19,3 +19,9 @@ Lambda (λ) is a **simple batch** program that allows you to **install/upgrade**
 It creates for you **all the necessaries registry keys** *automatically*.
 
 It's very **simple & intuitive** to use. Discover more **at the** [**Usage Section**](https://github.com/franzageek/lambda/blob/main/README.md#usage)
+
+
+
+
+### Usage
+
