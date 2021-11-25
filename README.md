@@ -52,6 +52,17 @@ You can use it in **only 4 steps**:
 
 ### Commands
 
+```bash
+# Usage: lambda /command
+     [/upd]              Creates keys that allow you to upgrade 
+                         to Windows 11 on unsupported hardware.
+     [/inst]             Creates keys that allow you to install 
+                         Windows 11 on unsupported hardware.
+     [/complete]         Creates all the necessaries keys that 
+                         allow you to install or upgrade to
+                         Windows 11 on unsupported hardware.
+     [/?, /help]         Shows this help.
+```
 
 
 
