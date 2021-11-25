@@ -55,7 +55,7 @@ echo Developed by FranzaGeek
 echo This is free and open-source software, and you are welcome to redistribute it.
 echo.
 echo Usage: lambda /command
-echo     [/upd]              Creates keys that allow you to upgrade 
+echo     [/upg]              Creates keys that allow you to upgrade 
 echo                         to Windows 11 on unsupported hardware.
 echo     [/inst]             Creates keys that allow you to install 
 echo                         Windows 11 on unsupported hardware.
