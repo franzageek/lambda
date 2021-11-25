@@ -69,7 +69,7 @@ You can use it in **only 4 steps**:
 This is the download section. Download your favourite version here or **in the [**Release Page**](https://github.com/franzageek/lambda/releases)**
 
 #### Versions
-[![101](https://img.shields.io/badge/1.01-Download-brightgreen)](github.com)
+[![101](https://img.shields.io/badge/1.01-Download-brightgreen)](https://www.github.com)
 
 
 
