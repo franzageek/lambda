@@ -31,6 +31,6 @@ It's very **simple & intuitive** to use. Discover more **at the** [**Usage Secti
 Lambda is very simpe to use.
 You can use it in **only 5 steps**:
 
-1) 
+1)
 
 
