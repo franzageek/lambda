@@ -70,7 +70,7 @@ This is the download section. Download your favourite version here or **in the [
 
 #### Versions
 ##### 1
-[![101](https://img.shields.io/badge/1.01-Download-brightgreen)](https://github.com/franzageek/lambda/releases/download/1.01/lambda.exe)
+[![101](https://img.shields.io/badge/1.01-Download-brightgreen)](https://github.com/franzageek/lambda/releases/download/v1.0.1A/lambda.exe)
 
 
 
