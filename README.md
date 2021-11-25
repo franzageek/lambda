@@ -15,7 +15,7 @@ A tool to bypass the Windows 11's hardware requirements.
 
 ### Description
 
-![](https://github.com/franzageek/lambda/blob/images/screenshot-1.png)
+![](https://github.com/franzageek/lambda/blob/images/screenshot.png)
 
 Lambda (λ) is a **simple batch program** that allows you to **install/upgrade** to **Windows 11** on **unsupported hardware**.
 
