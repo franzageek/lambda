@@ -66,7 +66,7 @@ You can use it in **only 4 steps**:
 
 ### Downloads
 
-This is the download section. Download your favourite version here or **in the [**Release Page**](https://github.com/franzageek/lambda/releases)**
+This is the download section. Download your favourite version here or **in the [**Release Page**](https://github.com/franzageek/lambda/releases)**.
 
 #### Versions
 ##### 1
