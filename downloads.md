@@ -1,6 +1,6 @@
 ## Downloads & Releases
 
-### Index
+### Index of versions
 
 - [1](https://github.com/franzageek/lambda/blob/main/downloads.md#1)
 
