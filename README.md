@@ -33,7 +33,7 @@ You can use it in **only 4 steps**:
 
 ![](https://github.com/franzageek/lambda/blob/images/screenshot-2.png)
 
-1) If you are stuck at this screen, press **`Shift + F10`** and the command prompt will appear.
+1) If you are stuck at this screen, press **`Shift`**+**`F10`** and the command prompt will appear.
 
 ![](https://github.com/franzageek/lambda/blob/images/screenshot-3.png)
 
