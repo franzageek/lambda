@@ -29,7 +29,7 @@ It's very **simple & intuitive** to use. Discover more **at the** [**Usage Secti
 ### Usage
 
 Lambda is very simpe to use.
-You can use it in **only 4 steps**:
+You can use it in **only 4 steps**: 
 
 ![](https://github.com/franzageek/lambda/blob/images/screenshot-2.png)
 
