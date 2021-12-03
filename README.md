@@ -1,6 +1,8 @@
 # Lambda
 A tool to bypass the Windows 11's hardware requirements.
 
+[![101A](https://img.shields.io/badge/Go_to-releases-brightgreen?labelColor=009900&logo=github&logoColor=white)](https://github.com/franzageek/lambda/releases)
+
 ## Index
 
 > [Description](https://github.com/franzageek/lambda/blob/main/README.md#description)
