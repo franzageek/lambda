@@ -39,7 +39,7 @@ You can use it in **only 4 steps**:
 
 ![](https://github.com/franzageek/lambda/blob/images/screenshot-3.png)
 
-2) Copy **lambda.exe** in a **USB Drive**, connect it at the PC you want to install Windows on, and launch *lambda.exe* from the command prompt.
+2) Copy **lambda folder** in a **USB Drive**, connect it at the PC you want to install Windows on, and launch *lambda.exe* from the command prompt.
 
 ![](https://github.com/franzageek/lambda/blob/images/screenshot-4.png) ![](https://github.com/franzageek/lambda/blob/images/screenshot-6.png)
 
