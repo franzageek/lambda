@@ -9,7 +9,7 @@ A tool to bypass the Windows 11's hardware requirements.
 
 > [Commands](https://github.com/franzageek/lambda/blob/main/README.md#commands)
 
-> [Downloads](https://github.com/franzageek/lambda/blob/main/README.md#downloads)
+> [Downloads](https://github.com/franzageek/lambda/blob/main/downloads.md)
 
 
 
