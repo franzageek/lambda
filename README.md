@@ -73,9 +73,10 @@ This is the download section. Download your favourite version here or **in the [
 
 #### Versions
 ##### 1
-[![101A](https://img.shields.io/badge/1.01A_Latest-Download-brightgreen?labelColor=009900)](https://github.com/franzageek/lambda/releases/download/1.0.1A/lambda.exe) [![101](https://img.shields.io/badge/1.01-Download-green?labelColor=e6e6e6)](https://github.com/franzageek/lambda/releases/download/1.0.1/lambda.exe)
+[![101A](https://img.shields.io/badge/1.01A-Download-brightgreen?labelColor=e6e6e6)](https://github.com/franzageek/lambda/releases/download/1.0.1A/lambda.exe) [![101](https://img.shields.io/badge/1.01-Download-brightgreen?labelColor=e6e6e6)](https://github.com/franzageek/lambda/releases/download/1.0.1/lambda.exe)
 
-
+##### 2
+[![201](https://img.shields.io/badge/2.01_Latest-Download-brightgreen?labelColor=009900)](https://github.com/franzageek/lambda/releases/download/2.0.1/lambda.zip)
 
 
 
