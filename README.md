@@ -67,14 +67,6 @@ You can use it in **only 4 steps**:
      [/?, /help]         Shows this help.
 ```
 
-### Downloads
-
-This is the download section. Download your favourite version here or **in the [**Release Page**](https://github.com/franzageek/lambda/releases)**.
-
-#### Versions
-##### 1
-[![101A](https://img.shields.io/badge/1.01A_Latest-Download-brightgreen?labelColor=009900)](https://github.com/franzageek/lambda/releases/download/1.0.1A/lambda.exe) [![101](https://img.shields.io/badge/1.01-Download-green?labelColor=e6e6e6)](https://github.com/franzageek/lambda/releases/download/1.0.1/lambda.exe)
-
 
 
 
