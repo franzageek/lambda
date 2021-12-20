@@ -13,4 +13,4 @@ Here you can find Lambda 1.*
 #### 2
 Here you can find Lambda 2.*
 
-[![201](https://img.shields.io/badge/2.01_Latest-Download-brightgreen?labelColor=009900)](https://github.com/franzageek/lambda/releases/download/2.0.1/lambda.zip)
+[![216](https://img.shields.io/badge/2.1.6_Latest-Download-brightgreen?labelColor=009900)](https://github.com/franzageek/lambda/releases/download/2.1.6/lambda.exe) [![201](https://img.shields.io/badge/2.01-Download-brightgreen?labelColor=e6e6e6)](https://github.com/franzageek/lambda/releases/download/2.0.1/lambda.zip)
